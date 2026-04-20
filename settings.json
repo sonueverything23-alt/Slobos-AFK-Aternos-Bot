@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "minebotdev.aternos.me",
+    "port": 61214,
+    "version": "1.18.2",
     "try-creative": false
   },
   "position": {
